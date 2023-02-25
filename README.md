@@ -1,6 +1,7 @@
 # Alpha-Romeo-1969
 
-This is a Pure CSS Drawing , Just for fun and Practise :)
+This is a Pure CSS Drawing , Just for fun and Practise.
+Static non responsive design.
 ---------------------------------------
 
 Criedt goes to Eng. Osama Elzero I have learned all the skills from his website and Youtube Channel
